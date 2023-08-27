@@ -1,0 +1,1004 @@
+@media (max-width: 640px) {
+
+    .low-text,
+    .ex-desc,
+    .messagers-nikushin,
+    .timaikin-desc,
+    .teacher-else,
+    .table-number,
+    .homework-plus,
+    .team-workshops,
+    .workshops-team-tablet, 
+    .homework-head-tablet,
+    .homework-exe,
+    .workshops-mob,
+    .course-work-plus,
+    .morozov-desc,
+    .heading-figures span,
+    .figures,
+    .percent-case,
+    .course3,
+    .course-boy,
+    .six-desktop,
+    .twenty-six,
+    .nofull {
+        display: none;
+    }
+
+    .ex,
+    .messagers-mob,
+    .morozov-mob,
+    .tumaikin-mob,
+    .points, 
+    .homework-head-mob,
+    .written-plus-mob,
+    .homework-task,
+    .workshops-mob-plus,
+    .course-work-desc,
+    .desc-mob,
+    .figures-mob,
+    .modules, 
+    .modules-top,
+    .percent-mob,
+    .course3-mob,
+    .course-boy-mob,
+    .six-workshops,
+    .full,
+    .logo-bottom,
+    .footer
+     {
+        display: block;
+    }
+
+    .center {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .header {
+        padding-bottom: 16px;
+    }
+
+    .top-text {
+        margin-top: 30px;
+        font-size: 28px;
+        line-height: 105%;
+        letter-spacing: -0.05px;
+        color: #FFFFFF;
+    }
+
+    .title {
+        font-size: 67px;
+    }
+
+    .low-text-mob {
+        display: flex;
+        align-items: baseline;
+    }
+
+    .arrow1-mob {
+        top: -5px;
+        position: relative;
+    }
+
+    .arrow2-mob {
+        width: 100%;
+    }
+
+    .description {
+        font-size: 20px;
+        line-height: 135%;
+        letter-spacing: -0.6px;
+    }
+
+    .adver {
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: 32px;
+        gap: 30px;
+
+    }
+
+    .adver-info {
+        display: flex;
+        flex-direction: row;
+        gap: 40px;
+    }
+
+    .teachers {
+        margin-top: 24px;
+        margin-bottom: 40px;
+    }
+
+    .person {
+        display: flex;
+        flex-direction: row-reverse;
+        column-gap: 8px;
+        justify-content: space-between;
+    }
+
+    .teachers-heading {
+        font-size: 28px;
+        line-height: 105%;
+        letter-spacing: -0.05px;
+    }
+
+    .teacher {
+        margin-top: 24px;
+    }
+
+    .name {
+        font-size: 20px;
+        line-height: 125%;
+        letter-spacing: -0.6px;
+    }
+
+    .name-description {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+        margin-bottom: 16px;
+    }
+
+    .name-description span {
+        color: #000000;
+        font-size: 16px;
+    }
+
+    .role {
+        margin-bottom: 8px;
+    }
+
+    .messagers-mob {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        column-gap: 12px;
+        row-gap: 8px;
+    }
+
+    .tumaikin-mob {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        -moz-column-gap: 12px;
+        column-gap: 12px;
+        row-gap: 8px;
+    }
+
+    .messagers a {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+        color: #FF6D00;
+    }
+
+    .photo {
+        float: right;
+        margin: 0 0 8px 8px;
+    }
+
+    .teacher-else-mob {
+        display: block;
+        max-width: 300px;
+        margin-top: 24px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 12px;
+        box-sizing: border-box;
+        border: 1px solid #fd6d00;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .else-four {
+        font-size: 20px;
+        line-height: 135%;
+        letter-spacing: -0.6px;
+        margin-left: 8px;
+    }
+
+    .else-photo img {
+        display: flex;
+    }
+
+    .program {
+        padding-top: 24px;
+        padding-bottom: 32px;
+    }
+
+    .program-heading {
+        font-size: 28px;
+        line-height: 105%;
+        margin-bottom: 16px;
+    }
+
+    .program-description {
+        font-size: 20px;
+        line-height: 135%;
+        letter-spacing: -0.6px;
+    }
+
+    .table {
+        padding-top: 40px;
+        padding-bottom: 24px;
+    }
+
+    .check-head {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 145%;
+    }
+
+    .checkbox {
+        width: 12px;
+        padding-left: 5px;
+        padding-right: 3px;
+        position: relative;
+        top: 2px;
+    }
+
+
+    .container {
+        width: 12px;
+    }
+
+    .included {
+        font-size: 20px;
+        line-height: 135%;
+        letter-spacing: -0.6px;
+    }
+
+    .included-yes {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+    }
+
+    .about-program {
+        display: flex;
+        align-items: center;
+        max-width: 300px;
+        margin-top: 24px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 20px;
+        line-height: 135%;
+        text-align: center;
+        letter-spacing: -0.6px;
+        height: 55px;
+    }
+
+    .course-about {
+        color: #000000;
+        font-size: 28px;
+        line-height: 105%;
+        letter-spacing: -0.05px;
+    }
+
+    .logo-course {
+        width: 134px;
+        top: 3px;
+    }
+    .figure {
+        margin-top: 24px;
+        margin-bottom: 22px;
+        column-gap: 14px;
+        row-gap: 12px;
+    }
+
+    .figure-text {
+        font-size: 16px;
+        line-height: 135%;
+        letter-spacing: -0.03px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .figure1 {
+        background: url("../img/figure1-mob.jpg") center / cover no-repeat;
+        width: 160px;
+        height: 160px;
+    }
+    
+    .figure2 {
+        background: url("../img/figure2-mob.jpg") center / cover no-repeat;
+        width: 136px;
+        height: 151px;
+    }
+    
+    .figure3 {
+        background: url("../img/figure3-mob.jpg") center / cover no-repeat;
+        width: 136px;
+        height: 136px;
+    }
+    
+    .figure4 {
+        background: url("../img/figure4-mob.jpg") center / cover no-repeat;
+        width: 150px;
+        height: 136px;
+    }
+    
+    .source, .source-it {
+        font-size: 10px;
+        line-height: 130%;
+        letter-spacing: -0.03px;
+        text-decoration-line: underline;
+    }
+    
+    .figure-board-left {
+        padding-left: 9px;
+    }
+
+    .figure-board-it {
+        padding-top: 0;
+    }
+    
+    .board-left {
+        padding-top: 0;
+    }
+
+    .consult {
+        display: block;
+        border-radius: 0;
+        padding: 16px 10px;
+        margin-bottom: 40px;
+    }
+
+    .consult-heading {
+        font-size: 20px;
+        line-height: 125%;
+        letter-spacing: -0.6px;
+    }
+
+    .consult-text-mob {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+    }
+
+    .form-box {
+        justify-content: center;
+        margin-top: 24px;
+    }
+
+    .workshops-heading {
+        font-size: 28px;
+        line-height: 105%;
+        margin-top: 40px;
+        margin-bottom: 16px;
+    }
+
+    .workshops-block {
+        border-radius: 0;
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+
+    .workshops-team-heading {
+        font-size: 20px;
+        letter-spacing: -0.6px;
+        margin-bottom: 0px;
+    }
+
+    .workshops-team {
+        margin-bottom: 0;
+        font-size: 20px;
+        line-height: 135%;
+        letter-spacing: -0.6px;
+    }
+
+    .workshops-decs {
+        display: none;
+    }
+
+    .written-plus-text {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+        margin-top: 16px;
+    }
+
+    .workshops-only {
+        display: block;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+        color: #AD61FF;
+    }
+
+    .team-hidden {
+        display: block;
+        margin-top: 16px;
+    }
+
+    .written {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        gap: 16px;
+    }
+
+    .homework-head-mob {
+        font-size: 20px;
+        line-height: 135%;
+        letter-spacing: -0.6px;
+        margin-bottom: 16px;
+    }
+
+    .homework-text {
+        width: auto;
+    }
+
+    .homework-task {
+        font-size: 16px;
+        width: auto;
+    }
+
+    .homework-description {
+        width: auto;
+        margin-top: 16px;
+        font-size: 20px;
+        line-height: 135%;
+        letter-spacing: -0.6px;
+    }
+
+    .feedback-description {
+        font-size: 16px;
+    }
+
+    .feedback-text {
+        flex-wrap: wrap;
+    }
+
+    .feedback-text, 
+    .feedback-text-tablet,
+    .feedback-description {
+        width: auto;
+    }
+
+    .workshops-mob-plus {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .consult-heading-works {
+        margin-bottom: 0px;
+    }
+
+    .course-work {
+        margin-top: 40px;
+        padding: 16px 10px;
+        gap: 16px;
+    }
+
+    .course-work-head {
+        font-size: 20px;
+        line-height: 135%;
+        width: auto;
+    }
+
+    .course-description {
+        font-size: 16px;
+        line-height: 145%;
+        gap: 16px;
+    }
+
+    .workshops-all {
+        margin-bottom: 24px;
+    }
+
+    .all-heading {
+        font-size: 28px;
+        line-height: 105%;
+        letter-spacing: -0.05px;
+        margin-top: 32px;
+        margin-bottom: 24px;
+    }
+
+    .all-teachers-person {
+        margin-bottom: 32px;
+    }
+
+    .person-all {
+        flex-direction: row-reverse;
+    }
+
+    .picture-all {
+        margin-right: 0;
+        float: left;
+    }
+
+    .name-all {
+        font-size: 20px;
+    }
+
+    .role-all {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+        margin-bottom: 8px;
+    }
+
+    .name-description-all {
+        font-size: 16px;
+        line-height: 145%;
+        margin-bottom: 16px;
+    }
+    
+    .teacher-link-all {
+        font-size: 16px;
+        line-height: 145%;
+    }
+
+    .messagers-kozlov {
+        display: block;
+    }
+
+    .form-all-tablet {
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+    
+    .form-all-heading {
+        margin-bottom: 8px;
+    }
+
+    .form-all-heading-tablet {
+        font-size: 20px;
+        line-height: 125%;
+        letter-spacing: -0.6px;
+    }
+    .form-all-text-tablet {
+        font-size: 16px;
+        line-height: 145%;
+        margin-bottom: 24px;
+        color: #000000;
+    }
+
+    .form-item-all-tablet {
+        font-size: 18px;
+        line-height: 130px;
+        height: 48px;
+    }
+
+    .form-item-all-tablet::placeholder {
+        color: #000000;
+        font-size: 18px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+    }
+
+    .warning-all {
+        margin-top: 8px;
+    }
+
+    .employment {
+        padding-bottom: 10px;
+    }
+
+    .employment-heading {
+        padding-top: 32px;
+        margin-bottom: 24px;
+        line-height: 105%;
+        font-size: 28px;
+        letter-spacing: -0.05px;
+    }
+
+    .arrow-employment {
+        width: 24px;
+    }
+
+    .employment-text {
+        font-size: 16px;
+        line-height: 145%;
+    }
+
+    .employment-sign {
+        font-size: 16px;
+    }
+
+    .employment-white {
+        margin-top: -248px;
+        display: block;
+        padding: 10px 10px 15px 10px;
+        border-radius: 0;
+    }
+
+    .employment-all {
+        margin-top: 0px;
+    }
+
+    .employment-skills {
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
+
+    .employment-right {
+        font-size: 18px;
+        line-height: 145%;
+    }
+
+    .employment-white-right {
+        font-size: 20px;
+        letter-spacing: -0.6px;
+        margin-top: 40px;
+    }
+
+    .employment-text-color {
+        margin-top: 16px;
+    }
+
+    .heading-figures {
+        margin-top: 32px;
+        margin-bottom: 16px;
+        font-size: 28px;
+        line-height: 105%;
+    }
+
+    .prog-text-plus {
+        display: block;
+        font-size: 20px;
+        line-height: 135%;
+        letter-spacing: -0.6px;
+        margin-bottom: 16px;
+    }
+
+    .plan {
+        display: grid;
+        justify-items: start;
+        grid-template-areas:
+            "prog"
+            "prog-text-plus";
+        box-sizing: border-box;
+    }
+
+    .plan-text {
+        border-radius: 0;
+        display: flex;
+        padding-top: 16px;
+        padding-bottom: 24px;
+    }
+
+    .grade {
+        font-size: 18px;
+        line-height: 130%;
+        letter-spacing: -0.05px;
+        margin-bottom: 8px;
+    }
+
+    .plan-item {
+        font-size: 16px;
+        line-height: 145%;
+    }
+
+    .desc {
+        display: none;
+    }
+
+    .desc-mob {
+        display: block;
+    }
+
+    .plan-item {
+        margin-bottom: 12px;
+    }
+
+    .figures-mob {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 24px;
+        margin-bottom: 8px;
+    }
+
+    .bi {
+        margin-left: 0;
+        max-width: 227px;
+        min-width: 227px;
+    }
+
+    .stat {
+        margin-left: 19px;
+        margin-top: -26px;
+        max-width: 245px;
+        min-width: 245px;
+    }
+
+    .excel {
+        margin-left: -98px;
+        margin-top: -30px;
+        max-width: 128px;
+        min-width: 128px;
+    }
+
+    .web {
+        margin-top: -146px;
+        margin-left: -43px;
+        max-width: 291px;
+        min-width: 166px;
+    }
+
+    .sql {
+        margin-left: 50px;
+        margin-top: -128px;
+        max-width: 125px;
+        min-width: 125px;
+    }
+
+    .python {
+        margin-left: 57px;
+        margin-top: -42px;
+        max-width: 151px;
+        min-width: 151px;
+    }
+
+    .modules {
+        margin-top: 16px;
+    }
+
+    .modules-role {
+        font-size: 16px;
+        line-height: 145%;
+    }
+
+    .modules-pre {
+        margin-bottom: 0;
+    }
+
+    .modules-left {
+        width: 300px;
+    }
+
+    .modules-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        border-bottom: 0;
+    }
+
+    .modules-top {
+        margin-top: 8px;
+    }
+
+    .modules-block {
+        flex-direction: column;
+    }
+
+    .modules-block-description {
+        width: 300px;
+    }
+
+    .modules-right-last {
+        margin-bottom: 24px;
+    }
+
+    .course-heading {
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
+
+    .percent-mob {
+        background: #F9EBFF;
+        border-radius: 20px;
+        box-sizing: border-box;
+        transform: rotate(-5deg);
+        width: 256px;
+        padding: 16px 0 24px 24px;
+        margin-top: 16px;
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .course3-mob {
+        background: #AD61FF;
+        border-radius: 900px;
+        box-sizing: border-box;
+        transform: rotate(11deg);
+        color: #FFFFFF;
+        padding: 10px 18px 16px 19px;
+        font-weight: 500;
+        font-size: 27px;
+        line-height: 85%;
+        text-align: center;
+        max-width: 278px;
+        height: 66px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        margin-top: 24px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .course-boy-mob {
+        position: relative;
+        background: #FF9E00;
+        box-sizing: border-box;
+        border-radius: 738px;
+        transform: rotate(31deg);
+        width: 77px;
+        height: 42px;
+        color: #FFFFFF;
+        font-size: 27px;
+        line-height: 85%;
+        padding: 12px 15px 18px 18px;
+        left: 70%;
+        top: 32%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        opacity: 0.8;
+        margin-bottom: 3px;
+    }
+
+    .twenty-six-desc {
+        display: none;
+    }
+
+    .six-mob {
+        margin-top: 24px;
+        margin-bottom: 17px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .consult-bottom {
+        display: none;
+    }
+
+    .feed {
+        padding-bottom: 24px;
+    }
+
+    .quote {
+        width: 24px;
+    }
+
+    .feed-text-plus {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+    }
+
+    .feed-content {
+        width: auto;
+    }
+
+    .text-all {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+    }
+
+    .cost {
+        background-color: #FFFFFF;
+        padding: 0px;
+    }
+
+    .cost-price {
+        
+        width: auto;
+        margin: 0 auto;
+        border-radius: 20px;
+        padding: 32px 10px 24px 10px;
+        box-sizing: border-box;
+    }
+
+    .cost-heading {
+        font-size: 28px;
+        line-height: 105%;
+        letter-spacing: -0.05px;
+        margin-bottom: 24px;
+    }
+    .cost-top {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 125%;
+        letter-spacing: -0.6px;
+    }
+
+    .prices {
+        align-items: flex-end;
+    }
+    .price-date {
+        font-size: 20px;
+        line-height: 125%;
+        letter-spacing: -0.6px;
+    }
+
+    .cost-count {
+        flex-direction: column-reverse;
+        align-items: flex-end;
+        gap: 5px;
+    }
+
+    .cost-cross {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;    
+    }
+
+    .cost-month {
+        font-size: 12px;
+        line-height: 125%;
+        letter-spacing: -0.6px;
+    }
+
+    .cost-free {
+        margin-bottom : 0;
+    }
+
+    .form-item-cost, .form-set-cost, .cost-row-bottom {
+        width: 300px;
+    }
+
+    .form-item-cost, .form-set-cost {
+        height: 48px;
+    }
+
+
+    .last {
+        margin-top: 24px;
+        margin-bottom: 8px;
+    }
+
+    .last-heading {
+        font-size: 28px;
+        line-height: 115%;
+        letter-spacing: -0.6px;
+        margin-bottom: 16px;
+    }
+    
+    .last-columns {
+        row-gap: 24px;
+    }
+    
+    .last-row {
+        width: auto;
+        gap: 24px;
+    }
+    
+    .last-course-text {
+        font-size: 20px;
+        line-height: 125%;
+        letter-spacing: -0.6px;
+        margin-bottom: 16px;
+    }
+    
+    .last-adver-time {
+        font-size: 16px;
+        line-height: 145%;
+        letter-spacing: -0.05px;
+    }
+
+    .logo-bottom {
+        margin-top: 64px;
+        margin-bottom: 8px;
+    }
+
+    .logo-img-bottom {
+        width: 214px;
+        margin-bottom: 28px;
+    }
+
+    .menu-bottom {
+        padding-top: 0px;
+        display: flex;
+        gap: 8px;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 24px;
+        padding-top: 16px;
+    }
+}
